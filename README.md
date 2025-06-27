@@ -6,7 +6,7 @@ Atualmente desenvolvo projetos acadêmicos em Java, com foco em organização, b
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Java, Python
+- Java, Python, C+
 - Git, GitHub
 - HTML, CSS
 --
