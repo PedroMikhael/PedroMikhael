@@ -13,6 +13,6 @@ Atualmente desenvolvo projetos acadêmicos em Java, com foco em organização, b
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroMIkhael09&show_icons=true&theme=default&count_private=true)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroMikhael&show_icons=true&theme=default&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMIkhael09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMikhael&layout=compact)
